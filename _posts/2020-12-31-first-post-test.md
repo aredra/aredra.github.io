@@ -5,7 +5,7 @@ comments: true
 read_time: false
 toc: true
 categories:
-  - daily
+  - diary
 tags:
   - test
 ---
