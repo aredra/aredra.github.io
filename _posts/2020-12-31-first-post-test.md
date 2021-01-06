@@ -5,9 +5,9 @@ comments: true
 read_time: false
 toc: true
 categories:
-  - diary
+  - Diary
 tags:
-  - test
+  - 회고
 ---
 
 # 첫 테스트 글, 그리고 2020년도 마지막 날
