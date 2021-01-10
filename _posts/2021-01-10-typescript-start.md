@@ -12,7 +12,6 @@ tags:
 ---
 
 <br>
-
 공부해야지.. 하던 `TypeScript`를 이제 막 시작하였다. 완전 신생아지만 `java` 같은 느낌이 든다.
 
 ### TypeScript란?

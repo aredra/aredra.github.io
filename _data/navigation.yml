@@ -2,6 +2,8 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Home"
+    url: /
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
@@ -10,7 +12,7 @@ main:
     url: /tags/
   - title: "Abouts"
     url: /about/
-#  - title: "Pages"
-#    url: /page-archive/
+  # - title: "Pages"
+  #   url: /page-archive/
 #  - title: "Collections"
 #    url: /collection-archive/

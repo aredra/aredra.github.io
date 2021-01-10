@@ -12,7 +12,6 @@ tags:
 ---
 
 <br>
-
 CSS에서 요소의 위치를 정할 수 있는 `position`속성에 대해 알아봅시다.
 
 ### Position
