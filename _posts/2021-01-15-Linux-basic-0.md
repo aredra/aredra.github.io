@@ -1,6 +1,7 @@
 ---
 title: "Linux Basic - 파일명 규칙"
 date: 2021-01-15
+show_date: true
 comments: true
 read_time: false
 toc: true

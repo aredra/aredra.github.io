@@ -1,6 +1,7 @@
 ---
 title: "Nginx worker connections 오류"
 date: 2021-01-14
+show_date: true
 comments: true
 read_time: false
 toc: true
@@ -12,7 +13,6 @@ tags:
   - error
 ---
 
-<br>
 서비스에 간헐적인 500 Error가 발생하는 상황을 보게 되었다.
 처음에는 당연히 서버 에러인 줄 알았지만 서버 쪽에는 요청 자체를 받지 않은 상황이였다.
 

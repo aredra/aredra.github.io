@@ -1,6 +1,7 @@
 ---
 title: "Arrow Function"
 date: 2021-01-11
+show_date: true
 comments: true
 read_time: false
 toc: true
@@ -11,7 +12,6 @@ tags:
   - arrow-function
 ---
 
-<br>
 Arrow-function도 나온지 오래 됐지만 다시 정리를 해보려 한다.
 
 ## 특징

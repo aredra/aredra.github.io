@@ -1,6 +1,7 @@
 ---
 title: "TypeScript 시작하기"
 date: 2021-01-10
+show_date: true
 comments: true
 read_time: false
 toc: true
@@ -11,7 +12,6 @@ tags:
   - js
 ---
 
-<br>
 공부해야지.. 하던 `TypeScript`를 이제 막 시작하였다. 완전 신생아지만 `java` 같은 느낌이 든다.
 
 ### TypeScript란?

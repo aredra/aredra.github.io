@@ -1,6 +1,7 @@
 ---
 title: "Fisrt Post && Last Day in 2020"
 date: 2020-12-31
+show_date: true
 comments: true
 read_time: false
 toc: true
