@@ -1,6 +1,6 @@
 ---
 title: "Nginx worker connections 오류"
-date: 2021-01-13
+date: 2021-01-14
 comments: true
 read_time: false
 toc: true
