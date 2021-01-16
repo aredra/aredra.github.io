@@ -12,7 +12,6 @@ tags:
 ---
 
 <br>
-
 Typescript에서는 타입별칭(Type Alias)와 인터페이스를 통해 각 타입를 지정하여 편리하게 사용할 수 있다.
 
 ## Interface
