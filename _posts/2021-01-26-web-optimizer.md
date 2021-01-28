@@ -1,5 +1,5 @@
 ---
-title: "브라우저 로딩 과정"
+title: "브라우저 로딩 과정 & 사용자 관점"
 date: 2021-01-27
 comments: true
 read_time: false
@@ -7,6 +7,7 @@ categories:
   - Web
 tags:
   - 동작
+  - 최적화
 ---
 
 브라우저가 페이지를 요청하고 해당 페이지를 띄우는 로딩 과정에 대해 간략히 정리해보려 한다.
