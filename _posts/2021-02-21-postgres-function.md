@@ -1,6 +1,6 @@
 ---
 title: "DB Postgres json, array 관련 함수"
-date: 2021-02-19
+date: 2021-02-21
 comments: true
 read_time: false
 categories:
