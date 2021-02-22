@@ -3,6 +3,7 @@ title: "Shell sript 특수문자"
 date: 2021-02-22
 comments: true
 read_time: false
+toc: false
 categories:
   - Linux
 tags:
