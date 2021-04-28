@@ -20,7 +20,7 @@ title: "Aredra's playground"
 title_separator: "-"
 subtitle: "while (life) { knowledge += study(); }" # site tagline that appears below site title in masthead
 name: "Aredra"
-description: "Lazy-dreaming developer"
+description: "To be guru!"
 url: "https://aredra.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "https://github.com/aredra" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,7 +94,7 @@ analytics:
 author:
   name: "Aredra"
   avatar: "/assets/images/aredra-sm.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "**lazy-dreaming** starter & developer"
+  bio: "To be guru!!"
   location: "South Korea"
   email:
   links:
