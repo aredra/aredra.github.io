@@ -11,8 +11,8 @@ tags:
   - script
 ---
 
-npm 을 통해 관리되는 프로젝트들은 package.json 파일을 지니게 된다.  
-package.json 파일 내에는 scripts 라는 속성이 있고, 해당 속성에는 아래와 같은 지원하는 속성들이 있다.
+`npm` 을 통해 관리되는 프로젝트들은 `package.json`파일을 지니게 된다.  
+`package.json` 파일 내에는 `scripts` 라는 속성이 있고, 해당 속성에는 아래와 같은 지원하는 속성들이 있다.
 
 ## scripts
 
