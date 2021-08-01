@@ -16,11 +16,11 @@ minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon"
 
 # Site Settings
 locale: "en-US"
-title: "Aredra's playground"
+title: "Aredra's notepad"
 title_separator: "-"
-subtitle: "while (life) { knowledge += study(); }" # site tagline that appears below site title in masthead
+subtitle: "while (life) { knowledge += study(); } 😐" # site tagline that appears below site title in masthead
 name: "Aredra"
-description: "To be guru!"
+description: ""
 url: "https://aredra.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "https://github.com/aredra" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
