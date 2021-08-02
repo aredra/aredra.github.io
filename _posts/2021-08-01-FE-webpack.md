@@ -10,7 +10,7 @@ tags:
   - webpack
 ---
 
-모던프레임워크(?) Vue, React로 작성된 파일을 바로 브라우저에 줄 때 브라우저는 제대로 인식하지 못하기에(JSX나 ESNext 등..) build를 한 결과물을 브라우저에게 전달하고 이 동작에서 많이 사용되고 있는 번들러가 Webpack 이다.
+모던프레임워크(?) Vue, React로 작성된 파일을 바로 브라우저에 줄 때 브라우저는 제대로 인식하지 못하기에(JSX나 ESNext 등..) build를 한 결과물을 브라우저에게 전달하고 이 동작에서 많이 사용되고 있는 번들러가 `Webpack` 이다.
 
 ![navigation-api](/assets/images/2020-build-tools-ranking.png)
 
