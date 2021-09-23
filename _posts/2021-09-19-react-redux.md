@@ -3,11 +3,11 @@ title: "Diary - react 라이브러리들"
 date: 2021-09-19
 comments: true
 read_time: false
-toc: true
+toc: false
 categories:
   - Diary
 tags:
-  - Diary
+  - library
 ---
 
 `Vue`, `React` 의 차이점 중 하나를 꼽으라면 특정 기능을 편리하게 이용하고자 할 때 사용할 수 있는 선택지의 폭도 하나 포함되는거 같다. 😂  
