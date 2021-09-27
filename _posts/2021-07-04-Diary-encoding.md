@@ -7,6 +7,7 @@ toc: false
 categories:
   - Diary
   - Java
+  - Error
 tags:
   - error
   - encoding

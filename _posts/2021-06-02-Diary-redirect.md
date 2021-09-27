@@ -1,11 +1,12 @@
 ---
 title: "Diary - 삽질 - Redirect"
-date: 2021-06-01
+date: 2021-06-02
 comments: true
 read_time: false
 toc: false
 categories:
   - Diary
+  - Error
 tags:
   - error
   - redirect

@@ -8,6 +8,7 @@ categories:
   - Diary
   - DB
   - Postgresql
+  - Error
 tags:
   - collate
 ---
