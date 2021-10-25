@@ -76,8 +76,8 @@ postMessage 의 2번째 파라미터에 소유권을 넘겨둘 객체들을 배�
 
 ## 참고자료
 
-> [MDN - Web workers](https://developer.mozilla.org/ko/docs/Web/API/Web_Workers_API/Using_web_workers)  
-> [인프런 - JS ES6+](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-es6-%EC%8B%AC%ED%99%94#)
+- [MDN - Web workers](https://developer.mozilla.org/ko/docs/Web/API/Web_Workers_API/Using_web_workers)
+- [인프런 - JS ES6+](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-es6-%EC%8B%AC%ED%99%94#)
 
 <hr/>
 
