@@ -93,7 +93,7 @@ window.addEventListener("unload", function() {
 };
 ```
 
-## 참고자료
+## 참고자료(원문)
 
 - [모던 javascript 튜토리얼](https://ko.javascript.info/onload-ondomcontentloaded)
 
