@@ -14,7 +14,7 @@ tags:
 
 [공식 문서 - 번역글](https://rinthel.github.io/rust-lang-book-ko/ch08-02-strings.html)의 8-2 챕터 정리
 
-앞선 `vetor` 에 이어 `rust`의 `string` 에 대해 알아볼 시간이다. 해당 글에서는 많은 뉴비들이 string 에서 헤매고 그 어려움에 대해서 설명하고 있는데 직접 겪어보자.
+앞선 `vetor` 에 이어 `rust`의 `string` 에 대해 알아볼 시간이다. 해당 글에서는 많은 뉴비들이 string 에서 헤매고 그 어려움에 대해서 설명하고 있는데 직접 겪어보자. 🥶
 
 ## String
 
@@ -120,7 +120,3 @@ for b in "hello".bytes() {
 <hr/>
 
 _개인이 참고하고자 작성한 글이며, 잘못된 정보가 있을 수 있습니다. 잘못된 정보는 메일로 보내주시면 감사하겠습니다._ 🙏
-
-```
-
-```
