@@ -11,7 +11,7 @@ tags:
   - generic
 ---
 
-Rust 문서 챕터 10-1 제너릭을 읽고 정리한 글이다.([링크](https://rinthel.github.io/rust-lang-book-ko/ch10-01-syntax.htmll))
+Rust 문서 챕터 10-1 제너릭을 읽고 정리한 글이다.([링크](https://rinthel.github.io/rust-lang-book-ko/ch10-01-syntax.html))
 
 사실 이 문서를 보기로 했었을 때 금방 끝날 줄 알았는데 실제 실무에 쓰지 않고 이곳 저곳 기웃거리다 보니 속도가 안 나고 있는데 느리더라도 끝까지 읽고 다시 한 번 볼 수 있도록 노력해야겠다. 😓
 
