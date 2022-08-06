@@ -1157,3 +1157,7 @@ non-constructor 의 경우 가지고 있지 않다.
 (function () {}.hasOwnProperty("prototype")); // true
 ({}.hasOwnProperty("prototype")); // false
 ```
+
+# 🔥 추가학습 필요
+
+- new.target
