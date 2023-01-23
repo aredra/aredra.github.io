@@ -11,7 +11,7 @@ tags:
   - trait
 ---
 
-Rust 공식문서([링크](https://doc.rust-lang.org/book/ch10-02-traits.html)) 와 Rust 비공식 번역 문서 챕터 10-1 제너릭을 읽고 정리한 글이다.([링크](https://rinthel.github.io/rust-lang-book-ko/ch10-02-traits.html))  
+Rust 공식문서([링크](https://doc.rust-lang.org/book/ch10-02-traits.html)) 와 Rust 비공식 번역 문서 챕터 10-2 `trait`를 읽고 정리한 글이다.([링크](https://rinthel.github.io/rust-lang-book-ko/ch10-02-traits.html))  
 원래 공식 문서는 영어인지라 비공식 번역 문서를 위주로 보고 있었는데 이번 번역글에서 없는 내용이 공식 문서에 있는 것을 확인하고 같이 넣었다. 역시 원문 문서를 보는 것을 습관 들여야 겠다. 🛟  
 ~~2주 넘게 안봤는데 음.. 나태해졌었다..⛈~~
 
