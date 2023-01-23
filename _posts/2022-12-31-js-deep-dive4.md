@@ -1,3 +1,17 @@
+---
+title: "모던 자바스크립트 Deep Dive"
+date: 2022-12-31
+comments: true
+read_time: false
+toc: true
+categories:
+  - js
+tags:
+  - js
+---
+
+[모던 자바스크립트 Deep Dive](https://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=339153552&gclid=Cj0KCQiA_bieBhDSARIsADU4zLcfqxlwZzp4UyhD_D_vJtnTNGyy_Bg324kGM8GcTqDKVRZBJ004_rsaAigaEALw_wcB) 에 대한 개인적인 정리글입니다.
+
 # 19. 프로토타입
 
 자바스크립트는 앞장에서 설명했다시피 다양한 프로그래밍 패러다임을 지원하는 멀티 패러다임 프로그래밍 언어이다.  
@@ -1322,3 +1336,7 @@ person.foo(function () {
 - 추상연산?
 - OrdinaryObjectCreate 함수
 - with 문
+
+<hr/>
+
+_개인이 참고하고자 작성한 글이며, 잘못된 정보가 있을 수 있습니다. 잘못된 정보는 메일로 보내주시면 감사하겠습니다._ 🙏

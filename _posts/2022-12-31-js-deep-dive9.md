@@ -1,3 +1,17 @@
+---
+title: "모던 자바스크립트 Deep Dive"
+date: 2022-12-31
+comments: true
+read_time: false
+toc: true
+categories:
+  - js
+tags:
+  - js
+---
+
+[모던 자바스크립트 Deep Dive](https://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=339153552&gclid=Cj0KCQiA_bieBhDSARIsADU4zLcfqxlwZzp4UyhD_D_vJtnTNGyy_Bg324kGM8GcTqDKVRZBJ004_rsaAigaEALw_wcB) 에 대한 개인적인 정리글입니다.
+
 # 37. Set 과 Map
 
 ## 37.1 Set
@@ -693,3 +707,7 @@ HTML 요소 사이의 스페이스, 탭 등 공백 문자는 텍스트 노드를
 - URN
 - 렉싱
 - 어트리뷰트 노드는 요소 노드의 자식인가?
+
+<hr/>
+
+_개인이 참고하고자 작성한 글이며, 잘못된 정보가 있을 수 있습니다. 잘못된 정보는 메일로 보내주시면 감사하겠습니다._ 🙏

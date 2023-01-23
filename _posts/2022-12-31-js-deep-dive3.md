@@ -1,3 +1,17 @@
+---
+title: "모던 자바스크립트 Deep Dive"
+date: 2022-12-31
+comments: true
+read_time: false
+toc: true
+categories:
+  - js
+tags:
+  - js
+---
+
+[모던 자바스크립트 Deep Dive](https://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=339153552&gclid=Cj0KCQiA_bieBhDSARIsADU4zLcfqxlwZzp4UyhD_D_vJtnTNGyy_Bg324kGM8GcTqDKVRZBJ004_rsaAigaEALw_wcB) 에 대한 개인적인 정리글입니다.
+
 # 13. 스코프
 
 스코프는 다른 프로그래밍 언어에서도 중요한 개념이며, 자바스크립트에서의 스코프는 다른 프로그래밍 언어와 구별되는 특징이 있으며 키워드에 따라 스코프가 다르게 동작할 수 있으므로 주의할 필요가 있다.
@@ -1161,3 +1175,7 @@ non-constructor 의 경우 가지고 있지 않다.
 # 🔥 추가학습 필요
 
 - new.target
+
+<hr/>
+
+_개인이 참고하고자 작성한 글이며, 잘못된 정보가 있을 수 있습니다. 잘못된 정보는 메일로 보내주시면 감사하겠습니다._ 🙏

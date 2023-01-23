@@ -1,3 +1,17 @@
+---
+title: "모던 자바스크립트 Deep Dive"
+date: 2022-12-31
+comments: true
+read_time: false
+toc: true
+categories:
+  - js
+tags:
+  - js
+---
+
+[모던 자바스크립트 Deep Dive](https://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=339153552&gclid=Cj0KCQiA_bieBhDSARIsADU4zLcfqxlwZzp4UyhD_D_vJtnTNGyy_Bg324kGM8GcTqDKVRZBJ004_rsaAigaEALw_wcB) 에 대한 개인적인 정리글입니다.
+
 # 1. 프로그래밍
 
 요구사항의 집합을 분석하여 적절한 자료구조와 함수의 집합으로 변환한 후, 그 흐름을 제어 하는 것.
@@ -421,3 +435,7 @@ console.log(typeof foo); // object
 - 배정밀도 64비트 부동소수점: console.log(0.1 + 0.2); console.log(0.1 + 0.2 === 0.3);
 - 태그드 템플릿: (text, values) => {}
 - 선언 정의: ?
+
+<hr/>
+
+_개인이 참고하고자 작성한 글이며, 잘못된 정보가 있을 수 있습니다. 잘못된 정보는 메일로 보내주시면 감사하겠습니다._ 🙏

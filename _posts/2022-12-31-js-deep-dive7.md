@@ -1,3 +1,17 @@
+---
+title: "모던 자바스크립트 Deep Dive"
+date: 2022-12-31
+comments: true
+read_time: false
+toc: true
+categories:
+  - js
+tags:
+  - js
+---
+
+[모던 자바스크립트 Deep Dive](https://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=339153552&gclid=Cj0KCQiA_bieBhDSARIsADU4zLcfqxlwZzp4UyhD_D_vJtnTNGyy_Bg324kGM8GcTqDKVRZBJ004_rsaAigaEALw_wcB) 에 대한 개인적인 정리글입니다.
+
 # 27. 배열
 
 ## 27.1 배열이란?
@@ -1309,8 +1323,10 @@ setTimeout 을 활용한 1초마다의 시계예제.
 
 # 🔥 추가학습 필요
 
-- 해쉬테이블
-- 유사 배열 객체, 이터러블 객체
 - push 메서드 성능
 - 유니코드 코드 포인트 - 한글 인코딩의 이해 1편
 - quicksort, timesort
+
+<hr/>
+
+_개인이 참고하고자 작성한 글이며, 잘못된 정보가 있을 수 있습니다. 잘못된 정보는 메일로 보내주시면 감사하겠습니다._ 🙏
